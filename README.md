@@ -7,7 +7,6 @@ class lhudqt():
             Python and NodeJS developer from Hungary.
             I mainly program in python.
             '''
-        self.age = 15
 
     def  __social__(self):
         self.discord = (username="ungerafft", id=1208295114233876490)
